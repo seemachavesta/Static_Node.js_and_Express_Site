@@ -1,0 +1,13 @@
+extends layout.pug
+
+block content
+  .not-found
+    h1= `${err.status} - ${err.message}`
+    p= `Sorry The page You are looking does not exist!`
+    nav.nav
+      a(href='/')
+        span &larr;
+        |  Back
+    hr
+    p= err.stack
+    

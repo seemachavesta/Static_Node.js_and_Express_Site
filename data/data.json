@@ -1,0 +1,53 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "A random quote generator that change the background when switch between quotes.",
+            "technologies": ["html", "css", "Javascript"],
+            "live_link": "https://seemachavesta.github.io/random_quote_generator/",
+            "github_link": "https://github.com/seemachavesta/random_quote_generator.git",
+            "image_urls": ["static/images/random_quotes.png", "static/images/random_quotes2.png" ]    
+        },
+        {
+            "id": 1,
+            "project_name": "Data Pagination And Filtering",
+            "description": "A directory with an interactive search bar.",
+            "technologies": ["html", "css", "Javascript"],
+            "live_link": "https://seemachavesta.github.io/data-pagination-and-filtering/",
+            "github_link": "https://github.com/seemachavesta/data-pagination-and-filtering.git",
+            "image_urls": ["static/images/data_pagi.png", "static/images/data_pagi2.png"]
+            
+        },
+        {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "An interactive form that can be useful to ecommerce web pages.",
+            "technologies": ["html", "css", "Javascript"],
+            "live_link": "https://seemachavesta.github.io/Interactive-Form/",
+            "github_link": "https://github.com/seemachavesta/Interactive-Form.git",
+            "image_urls": ["static/images/int_form.png", "static/images/int_form2.png", "static/images/int_form3.png"]
+           
+        },
+        {
+            "id": 3,
+            "project_name": "OOP Game Show App",
+            "description": "A phrase hunter game that can be useful to fun.",
+            "technologies": ["html", "css", "Javascript"],
+            "live_link": "https://seemachavesta.github.io/OOP_Game_Show-_App/",
+            "github_link": "https://github.com/seemachavesta/OOP_Game_Show-_App.git",
+            "image_urls": ["static/images/phrase_hunter.png", "static/images/phrase_hunter2.png", "static/images/phrase_hunter3.png"]
+            
+        },
+        {
+            "id": 4,
+            "project_name": "Public API Requests",
+            "description": "A random Startup employee directory with the information of 12 active employees, generated with an API.",
+            "technologies": ["html", "css", "Javascript"],
+            "live_link": "https://seemachavesta.github.io/public-api-request/",
+            "github_link": "https://github.com/seemachavesta/public-api-request.git",
+            "image_urls": ["static/images/api_request.png", "static/images/api_request2.png"]
+           
+        }
+    ]
+}

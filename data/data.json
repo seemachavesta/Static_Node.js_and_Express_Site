@@ -3,7 +3,7 @@
         {
             "id": 0,
             "project_name": "Random Quote Generator",
-            "description": "A random quote generator that change the background when switch between quotes.",
+            "description": "A random quote generator that change the background color when switching between quotes.",
             "technologies": ["html", "css", "Javascript"],
             "live_link": "https://seemachavesta.github.io/random_quote_generator/",
             "github_link": "https://github.com/seemachavesta/random_quote_generator.git",
@@ -22,7 +22,7 @@
         {
             "id": 2,
             "project_name": "Interactive Form",
-            "description": "An interactive form that can be useful to ecommerce web pages.",
+            "description": "An interactive form that can be useful for ecommerce web pages.",
             "technologies": ["html", "css", "Javascript"],
             "live_link": "https://seemachavesta.github.io/Interactive-Form/",
             "github_link": "https://github.com/seemachavesta/Interactive-Form.git",
@@ -42,7 +42,7 @@
         {
             "id": 4,
             "project_name": "Public API Requests",
-            "description": "A random Startup employee directory with the information of 12 active employees, generated with an API.",
+            "description": "A random Startup employee directory with the information of 12 active employees, generated with an public API.",
             "technologies": ["html", "css", "Javascript"],
             "live_link": "https://seemachavesta.github.io/public-api-request/",
             "github_link": "https://github.com/seemachavesta/public-api-request.git",
